@@ -1,11 +1,14 @@
 {
   "ver":1.0,
   "se":{
-    "29":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Chii.mp3?raw=true"},
-    "25":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Pon.mp3?raw=true"},
-    "27":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Kan.mp3?raw=true"},
-    "31":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Reache.mp3?raw=true"},
-    "33":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Ron.mp3?raw=true"},
-    "35":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Tsumo.mp3?raw=true"}
+    "29":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/chii.wav?raw=true"},
+    "25":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/pon.wav?raw=true"},
+    "27":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/kan.wav?raw=true"},
+    "31":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/reache.wav?raw=true"},
+    "33":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/ron.wav?raw=true"},
+    "35":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/tsumo.wav?raw=true"}
+    "6":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/da.wav?raw=true"}
+    "40":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/Start.wav?raw=true"}
+    "41":{"url":"https://github.com/giap59/Angrykid/blob/master/GK/yakuman.wav?raw=true"}
   }
 }
